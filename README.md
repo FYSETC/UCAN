@@ -37,7 +37,7 @@ Once flashed, the UCAN is recognised by Linux using the `gs_usb` driver and appe
 
 ## 1. Download and prepare the firmware
 
-Download the candleLight firmware package and extract it.
+Download the candleLight firmware package and extract it. (https://github.com/candle-usb/candleLight_fw/releases)
 
 The firmware file used in this procedure was:
 
